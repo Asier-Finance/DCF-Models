@@ -1,2 +1,2 @@
-# DCF-Models
+# Finance-Models
 Finance Models projects
